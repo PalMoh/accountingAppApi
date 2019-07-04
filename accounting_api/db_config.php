@@ -5,6 +5,6 @@
  * Time: 6:51 PM
  */
 define('DB_NAME',"id7662352_liveshop");
-define('DB_USER',"id7662352_mohammad");
-define('DB_PASSWORD',"0123456789mm");
+define('DB_USER',"");
+define('DB_PASSWORD',"");
 define('DB_SERVER',"localhost");
